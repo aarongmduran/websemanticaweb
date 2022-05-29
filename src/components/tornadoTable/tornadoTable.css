@@ -1,0 +1,23 @@
+table {
+    margin-top: 2rem;
+}
+
+input {
+    width: 100%;
+    margin-top: 2rem;
+    height: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+tr {
+    cursor: pointer;
+}
+
+tr:hover {
+    background-color: rgb(224, 236, 236);
+}
+
+h1 {
+    margin-top: 3rem;
+}

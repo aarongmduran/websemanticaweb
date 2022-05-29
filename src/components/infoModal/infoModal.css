@@ -1,0 +1,24 @@
+section {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background: white;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.29);
+    width: 70%;
+    min-width: 20rem;
+    height: 40rem;
+    transform: translate(-50%, -50%);
+    border-radius: 2rem;
+    padding: 2rem;
+    overflow: auto;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+.map {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
